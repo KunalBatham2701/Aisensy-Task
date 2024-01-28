@@ -4,8 +4,7 @@ const check = () => {
   return (
     <div>
       hello how are you
-      second
-      aise hee
+      i have made second change
     </div>
   )
 }
