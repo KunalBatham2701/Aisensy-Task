@@ -6,9 +6,6 @@ const check = () => {
       hello how are you
       second
       aise hee
-      asdfjalkjsdf
-      adsfkjasdljfk
-      akldsjf;lasdjf
     </div>
   )
 }
