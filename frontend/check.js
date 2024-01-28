@@ -4,6 +4,7 @@ const check = () => {
   return (
     <div>
       hello how are you
+      second
     </div>
   )
 }
